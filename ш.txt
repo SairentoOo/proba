@@ -1,4 +1,11 @@
 ололаосавол
 jceflj
 poppoppop
+<<<<<<< Updated upstream
 22
+=======
+
+kk
+
+оооовов
+>>>>>>> Stashed changes
